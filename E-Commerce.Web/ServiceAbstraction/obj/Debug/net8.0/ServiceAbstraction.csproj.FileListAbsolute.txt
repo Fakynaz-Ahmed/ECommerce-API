@@ -1,0 +1,15 @@
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.deps.json
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\bin\Debug\net8.0\Shared.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\bin\Debug\net8.0\Shared.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.AssemblyReference.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfoInputs.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfo.cs
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceA.44E702FF.Up2Date
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll

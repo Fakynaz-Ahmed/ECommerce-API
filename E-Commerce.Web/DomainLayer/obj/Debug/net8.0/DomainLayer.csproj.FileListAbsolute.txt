@@ -1,0 +1,12 @@
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache

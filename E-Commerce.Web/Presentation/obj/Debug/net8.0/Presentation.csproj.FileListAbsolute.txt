@@ -1,0 +1,17 @@
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\Presentation.deps.json
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\Presentation.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\Presentation.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\ServiceAbstraction.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\Shared.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\ServiceAbstraction.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\bin\Debug\net8.0\Shared.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.pdb
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\ref\Presentation.dll
