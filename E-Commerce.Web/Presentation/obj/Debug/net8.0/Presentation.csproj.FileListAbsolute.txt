@@ -15,3 +15,4 @@ P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug
 P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.pdb
 P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+P:\.NET course_Route\Asp.NET Core Web_ API\E-Commerce.Web\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
